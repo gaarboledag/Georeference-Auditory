@@ -1,6 +1,6 @@
 # Georeferencing Audit Analysis
 
-This repository contains a Jupyter notebook for auditing georeferencing data using two methods to identify inconsistencies in location data (e.g., client addresses). The analysis is designed to be generic, reusable, and privacy-conscious, using synthetic data.
+This repository contains a Jupyter notebook for auditing georeferencing data using two methods to identify inconsistencies in location data (e.g., client addresses).
 
 ## Features
 - **Method 1: Real Coordinates Analysis**: Identifies clusters of reference coordinates that are too close (e.g., <500 meters), indicating potential duplicates or errors.
